@@ -1,6 +1,6 @@
 {
   "name": "redux-diff-middleware",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Redux diff logger middleware",
   "license": "MIT",
   "repository": "mrydengren/redux-diff-middleware",
